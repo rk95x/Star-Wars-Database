@@ -2,7 +2,8 @@
 The Star Wars Database is a web application that allows users to search for and explore information about characters from the Star Wars universe. It utilizes Angular framework and integrates with the Star Wars API (SWAPI) to retrieve data.
 
 
-
+![starwars1](https://github.com/rk95x/Star-Wars-Database/assets/124801781/f732d2a8-4f1f-418e-901b-b2a4e5009252)
+![starwars2](https://github.com/rk95x/Star-Wars-Database/assets/124801781/55087212-7626-44f0-863c-60d86fead1ff)
 
 
 
